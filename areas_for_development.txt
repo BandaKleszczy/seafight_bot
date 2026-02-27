@@ -1,0 +1,16 @@
+zmniejszenie wykrywalności:
+(1)ponowne uzycie tortugi  po 5,1 - 9 minut.
+(2)losowe uzycie jedengo z dwóch amuletów 0,4 Chance co 1-2 minuty.
+(3)przy namierzaniu celu są dwa przesuniecia - zamienic na tylko klikniecie w wode, random 1-5 klikniec, random interwał 0,1-1sekund, po random 30-60s atakowania kliknąć 1-3 razy w 50-400 i interwał 4-10s.
+(4)random 0,2 Chance na początku searching aby kliknąć losowo na minimape i kliknąć wtedy w wode w 100-600 range.
+(5)0,05 Chance na początku searching aby poczekać 20- 80 sekund.
+
+zbliżenie się do przeciwnika przed jego zaatakownaiem, w trakcie ataku ruchy wyłącznie w jego kierunku (180 stopni).
+czasami nie kliknie na srodek npca, szczególnie gdy porusza się szybko - poprawić.
+
+(ewentualnie w przyszłości)zapis statystyk i interfejs graficzny.
+
+(opis słowny działania w celu zaprezentowania osobom trzecim).
+(troubleshooting, frequent issues).
+zapisz log.
+wypisanie nazwa atakowanego bota.
