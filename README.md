@@ -1,1 +1,2 @@
 # seafight_bot
+.
